@@ -1,5 +1,4 @@
 # Hello-world
-The hello world project
 
 Hi Humans,
 
